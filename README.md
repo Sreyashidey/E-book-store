@@ -27,4 +27,4 @@ This project is a dynamic e-book store website built using PHP and MySQL. Users 
 
 3. Start a local server (e.g., XAMPP or MAMP):
 - Place the project in the server's root directory (e.g., htdocs for XAMPP).
-- Access the site at http://localhost/<project-folder>.
+- Access the site at http://localhost/ <project-folder>.
